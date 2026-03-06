@@ -36,7 +36,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def main() -> int:
-    requests.packages.urllib3.disable_warnings()  # type: ignore[attr-defined]
+    requests.packages.urllib3.disable_warnings()  # type : ignore[attr-defined]
 
     args = parse_args()
 
