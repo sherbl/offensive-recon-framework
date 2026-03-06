@@ -21,5 +21,6 @@ pip install -r requirements.txt
 ┌──(kali㉿kali)-
 └─$sudo python3 recon.py               
 usage: recon.py [-h] -d DOMAIN [-o OUTPUT] [--csv CSV] [-t THREADS] [--timeout TIMEOUT] [--ports PORTS]
+
 RUN AS ROOT
 sudo python3 recon.py -d example.com
