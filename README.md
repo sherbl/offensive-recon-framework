@@ -18,3 +18,9 @@ A modular Python reconnaissance framework for authorized security testing.
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
+┌──(kali㉿kali)-
+└─$ python3 recon.py               
+usage: recon.py [-h] -d DOMAIN [-o OUTPUT] [--csv CSV] [-t THREADS] [--timeout TIMEOUT] [--ports PORTS]
+
+python3 recon.py -d example.com
