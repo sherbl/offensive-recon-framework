@@ -1,0 +1,1219 @@
+{
+  "target_domain": "panet.co.il",
+  "stats": {
+    "subdomains_found": 58,
+    "resolved_hosts": 36,
+    "hosts_with_open_ports": 35,
+    "hosts_with_http": 22
+  },
+  "results": [
+    {
+      "host": "about.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "199.203.139.200"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "mentor.panet.co.il"
+      ],
+      "primary_ip": "199.203.139.200",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "adswitch.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "104.26.15.138",
+        "104.26.14.138",
+        "172.67.71.177"
+      ],
+      "aaaa_records": [
+        "2606:4700:20::681a:f8a",
+        "2606:4700:20::ac43:47b1",
+        "2606:4700:20::681a:e8a"
+      ],
+      "cname_records": [],
+      "primary_ip": "104.26.15.138",
+      "open_ports": [
+        21,
+        80,
+        443,
+        8080,
+        8443
+      ],
+      "http": [
+        {
+          "requested_url": "https://adswitch.panet.co.il",
+          "final_url": "https://adswitch.panet.co.il/login",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=UTF-8",
+          "title": "Laravel"
+        }
+      ]
+    },
+    {
+      "host": "adx.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "172.67.71.177",
+        "104.26.14.138",
+        "104.26.15.138"
+      ],
+      "aaaa_records": [
+        "2606:4700:20::ac43:47b1",
+        "2606:4700:20::681a:e8a",
+        "2606:4700:20::681a:f8a"
+      ],
+      "cname_records": [],
+      "primary_ip": "172.67.71.177",
+      "open_ports": [
+        21,
+        80,
+        443,
+        8080,
+        8443
+      ],
+      "http": [
+        {
+          "requested_url": "https://adx.panet.co.il",
+          "final_url": "https://adx.panet.co.il/",
+          "status_code": 500,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=UTF-8",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "host": "analytics.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "api.sandbox.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "bigbox.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "cocacola.fb.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "corona.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "199.203.139.200"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "mentor.panet.co.il"
+      ],
+      "primary_ip": "199.203.139.200",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "elections2.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "199.203.139.200"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "mentor.panet.co.il"
+      ],
+      "primary_ip": "199.203.139.200",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "elections3.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "199.203.139.200"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "mentor.panet.co.il"
+      ],
+      "primary_ip": "199.203.139.200",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "forum.panet.co.il",
+      "resolved": true,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [
+        "dr1.panet.eu"
+      ],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "go.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "mentor.panet.com"
+      ],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://go.panet.co.il",
+          "final_url": "https://go.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html; charset=UTF-8",
+          "title": "פאנט"
+        }
+      ]
+    },
+    {
+      "host": "gsteam4.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "gstream4.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "87.98.145.107"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "stream.panet.com"
+      ],
+      "primary_ip": "87.98.145.107",
+      "open_ports": [
+        21,
+        22,
+        80,
+        443
+      ],
+      "http": [
+        {
+          "requested_url": "http://gstream4.panet.co.il",
+          "final_url": "http://gstream4.panet.co.il/",
+          "status_code": 404,
+          "server": "Nimble/4.2.0-6",
+          "content_type": "text/html",
+          "title": "Not found"
+        },
+        {
+          "requested_url": "https://gstream4.panet.co.il",
+          "final_url": "https://gstream4.panet.co.il/",
+          "status_code": 404,
+          "server": "Nimble/4.2.0-6",
+          "content_type": "text/html",
+          "title": "Not found"
+        }
+      ]
+    },
+    {
+      "host": "health.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.90.191.132"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.90.191.132",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "ipublish7-eu.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.4.3.139"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.4.3.139",
+      "open_ports": [
+        21,
+        22
+      ],
+      "http": []
+    },
+    {
+      "host": "ipublish7.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.90.37.6"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.90.37.6",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "http://ipublish7.panet.co.il",
+          "final_url": "http://ipublish7.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": "Suspended Domain"
+        },
+        {
+          "requested_url": "https://ipublish7.panet.co.il",
+          "final_url": "https://ipublish7.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": "Suspended Domain"
+        }
+      ]
+    },
+    {
+      "host": "ipublishx.sandbox.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "ipublishxi.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "199.203.139.172"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "staging2.panet.co.il"
+      ],
+      "primary_ip": "199.203.139.172",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "leads.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.90.37.15"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.90.37.15",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "live1.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "live2.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "m.sandbox.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "m1.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "172.67.71.177",
+        "104.26.14.138",
+        "104.26.15.138"
+      ],
+      "aaaa_records": [
+        "2606:4700:20::681a:f8a",
+        "2606:4700:20::681a:e8a",
+        "2606:4700:20::ac43:47b1"
+      ],
+      "cname_records": [],
+      "primary_ip": "172.67.71.177",
+      "open_ports": [
+        21,
+        80,
+        443,
+        8080,
+        8443
+      ],
+      "http": [
+        {
+          "requested_url": "https://m1.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "m2.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "104.26.14.138",
+        "104.26.15.138",
+        "172.67.71.177"
+      ],
+      "aaaa_records": [
+        "2606:4700:20::681a:f8a",
+        "2606:4700:20::ac43:47b1",
+        "2606:4700:20::681a:e8a"
+      ],
+      "cname_records": [],
+      "primary_ip": "104.26.14.138",
+      "open_ports": [
+        21,
+        80,
+        443,
+        8080,
+        8443
+      ],
+      "http": [
+        {
+          "requested_url": "https://m2.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "m2eu.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "172.67.71.177",
+        "104.26.14.138",
+        "104.26.15.138"
+      ],
+      "aaaa_records": [
+        "2606:4700:20::681a:e8a",
+        "2606:4700:20::681a:f8a",
+        "2606:4700:20::ac43:47b1"
+      ],
+      "cname_records": [],
+      "primary_ip": "172.67.71.177",
+      "open_ports": [
+        21,
+        80,
+        443,
+        8080,
+        8443
+      ],
+      "http": [
+        {
+          "requested_url": "https://m2eu.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "mail.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.161"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "zajel.panet.com"
+      ],
+      "primary_ip": "62.210.52.161",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://mail.panet.co.il",
+          "final_url": "https://mail.panet.co.il/roundcube/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html; charset=UTF-8",
+          "title": "Roundcube Webmail :: Welcome to Roundcube Webmail"
+        }
+      ]
+    },
+    {
+      "host": "mail2.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.161"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "zajel.panet.com"
+      ],
+      "primary_ip": "62.210.52.161",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "http://mail2.panet.co.il",
+          "final_url": "http://mail2.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": ""
+        },
+        {
+          "requested_url": "https://mail2.panet.co.il",
+          "final_url": "https://mail2.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "host": "mailbox.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.161"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.161",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "http://mailbox.panet.co.il",
+          "final_url": "http://mailbox.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": ""
+        },
+        {
+          "requested_url": "https://mailbox.panet.co.il",
+          "final_url": "https://mailbox.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "host": "mentor.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "199.203.139.200"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "199.203.139.200",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "minibox.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "mobileapi.sandbox.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "novartis.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "http://novartis.panet.co.il",
+          "final_url": "http://novartis.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html; charset=UTF-8",
+          "title": "نعيشُ مع جلدٍ صافٍ"
+        },
+        {
+          "requested_url": "https://novartis.panet.co.il",
+          "final_url": "https://novartis.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html; charset=UTF-8",
+          "title": "نعيشُ مع جلدٍ صافٍ"
+        }
+      ]
+    },
+    {
+      "host": "pages.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://pages.panet.co.il",
+          "final_url": "https://pages.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html; charset=UTF-8",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "host": "pais.fb.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "papi2-nl.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "pdf.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://pdf.panet.co.il",
+          "final_url": "https://pdf.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": "pdf.panet.co.il"
+        }
+      ]
+    },
+    {
+      "host": "revive.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "172.67.71.177",
+        "104.26.14.138",
+        "104.26.15.138"
+      ],
+      "aaaa_records": [
+        "2606:4700:20::681a:f8a",
+        "2606:4700:20::681a:e8a",
+        "2606:4700:20::ac43:47b1"
+      ],
+      "cname_records": [],
+      "primary_ip": "172.67.71.177",
+      "open_ports": [
+        21,
+        80,
+        443,
+        8080,
+        8443
+      ],
+      "http": []
+    },
+    {
+      "host": "sandbox.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "199.203.139.200"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "mentor.panet.co.il"
+      ],
+      "primary_ip": "199.203.139.200",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "senior-a.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "senior-b.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "senior-c.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "smtp.pages.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "http://smtp.pages.panet.co.il",
+          "final_url": "http://smtp.pages.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": ""
+        },
+        {
+          "requested_url": "https://smtp.pages.panet.co.il",
+          "final_url": "https://smtp.pages.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "host": "smtp.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.90.191.129"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "kevin.aumix.net"
+      ],
+      "primary_ip": "62.90.191.129",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "vastads.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "http://vastads.panet.co.il",
+          "final_url": "http://vastads.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": "vastads.panet.co.il"
+        },
+        {
+          "requested_url": "https://vastads.panet.co.il",
+          "final_url": "https://vastads.panet.co.il/",
+          "status_code": 200,
+          "server": "Apache/2",
+          "content_type": "text/html",
+          "title": "vastads.panet.co.il"
+        }
+      ]
+    },
+    {
+      "host": "vodcms.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "watch.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.90.191.144"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.90.191.144",
+      "open_ports": [
+        21
+      ],
+      "http": []
+    },
+    {
+      "host": "web-lb1.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://web-lb1.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "web-nl1.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "web1eu.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://web1eu.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "web2eu.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://web2eu.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "weblbeu.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://weblbeu.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "windev.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "www.ipublish7.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "www.minibox.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    },
+    {
+      "host": "www.panet.co.il",
+      "resolved": true,
+      "a_records": [
+        "62.210.52.162"
+      ],
+      "aaaa_records": [],
+      "cname_records": [
+        "panet.co.il"
+      ],
+      "primary_ip": "62.210.52.162",
+      "open_ports": [
+        21,
+        22,
+        25,
+        53,
+        80,
+        110,
+        143,
+        443,
+        465,
+        587
+      ],
+      "http": [
+        {
+          "requested_url": "https://www.panet.co.il",
+          "final_url": "https://panet.com/",
+          "status_code": 200,
+          "server": "cloudflare",
+          "content_type": "text/html; charset=utf-8",
+          "title": "PANET | Panet موقع .:. بانوراما أون لاين"
+        }
+      ]
+    },
+    {
+      "host": "www.windev.panet.co.il",
+      "resolved": false,
+      "a_records": [],
+      "aaaa_records": [],
+      "cname_records": [],
+      "primary_ip": null,
+      "open_ports": [],
+      "http": []
+    }
+  ]
+}
