@@ -1,16 +1,28 @@
 # Recon Automation Framework v3
 
-A modular Python reconnaissance framework for authorized security testing.
+🚀 Just released a new project: **Offensive Recon Framework**
 
-## Features
+I’ve been working on a reconnaissance automation tool designed to help map the **attack surface of a target domain**.
 
-- Subdomain discovery via crt.sh
-- DNS resolution (A / AAAA / CNAME)
-- TCP port scanning
-- HTTP/HTTPS probing
-- JSON + CSV reporting
-- Clean modular architecture
-- Aggressive colored terminal banner
+The framework performs:
+
+• Subdomain discovery
+• DNS intelligence analysis
+• Port scanning
+• HTTP service discovery
+• Infrastructure mapping
+• Attack surface classification
+• Target prioritization
+
+The goal of this project is to automate the **initial reconnaissance phase of penetration testing** and quickly identify potentially interesting targets.
+
+Built in **Python** and designed with a modular architecture.
+
+🔗 GitHub:
+https://github.com/sherbl/offensive-recon-framework
+
+Feedback and ideas are always welcome.
+
 
 ## Installation
 
